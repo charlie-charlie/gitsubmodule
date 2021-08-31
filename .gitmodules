@@ -1,0 +1,9 @@
+[submodule "roles/filebeat"]
+	path = roles/filebeat
+	url = https://github.com/geerlingguy/ansible-role-filebeat.git
+[submodule "roles/kibana"]
+	path = roles/kibana
+	url = https://github.com/geerlingguy/ansible-role-kibana.git
+[submodule "roles/apache"]
+	path = roles/apache
+	url = https://github.com/geerlingguy/ansible-role-apache.git
